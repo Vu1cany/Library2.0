@@ -136,3 +136,4 @@ Temporary Items
 
 .idea/
 target/
+src/**/hibernate.properties
